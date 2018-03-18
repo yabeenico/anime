@@ -1,12 +1,12 @@
-01 91Days
-02 アルスラーン戦記
-03 はんだくん
-04 バッテリー
-05 あまんちゅ
-06 甘々と稲妻
-07 ジョジョ4
-08 ReLIFE
-09 planetarian
-10 モブサイコ100
-11 この美術部には問題がある！
-12 NEWGAME
+91days
+amaama_to_inazuma
+amanchu
+arslan_senki_1
+battery
+handa_kun
+jojo_no_kimyou_na_bouken_4
+kono_bijutsubu_niwa_mondai_ga_aru
+mob_psycho_100
+newgame
+planetarian
+re_life

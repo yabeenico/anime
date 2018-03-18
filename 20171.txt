@@ -1,7 +1,7 @@
-0 world_fool_news2
-1 sakura_quest
-1 shingeki_no_kyojin2
-1 uchoten_kazoku2
-2 alice_to_zouroku
-2 natsume_yujincho6
-2 seikai_suru_kado
+alice_to_zouroku
+natsume_yuujinchou_6
+sakura_quest
+seikai_suru_kado
+shingeki_no_kyojin_2
+uchouten_kazoku_2
+world_fool_news_2

@@ -1,10 +1,10 @@
-01 くまみこ
-02 甲鉄城のカバネリ
-03 文豪ストレイドッグス
-04 ジョーカー・ゲーム
-05 暗殺教室2
-06 ふらいんぐうぃっち
-07 ジョジョ4
-08 僕のヒーローアカデミア
-09 とんかつDJアゲ太郎
-10 坂本ですが？
+ansatsu_kyoushitsu_2
+boku_no_hero_academia
+bungou_stray_dogs
+flying_witch
+jojo_no_kimyou_na_bouken_4
+joker_game
+koutetsujou_no_kabaneri
+kuma_miko
+sakamoto_desuga
+tonkatsu_dj_agetarou

@@ -1,11 +1,11 @@
-01 3月のライオン
-02 亜人
-03 舟を編む
-04 文豪ストレイドッグス
-05 終末のイゼッタ
-06 ジョジョ4
-07 夏目友人帳5
-08 ユーリ_on_ICE
-09 競女
-10 学園ハンサム
-11 クラシカロイド
+ajin_ova
+bungou_stray_dogs
+classicaroid
+fune_wo_amu
+gakuen_handsome
+jojo_no_kimyou_na_bouken_4
+keijo
+natsume_yuujinchou_5
+sangatsu_no_lion_1
+shuumatsu_no_izetta
+yuri_on_ice
