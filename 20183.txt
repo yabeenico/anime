@@ -1,4 +1,5 @@
 banana_fish
+bang_dream_pico
 beelzebub_jou_no_okinimesu_mama
 chuukan_kanri_roku_tonegawa
 dakaretai_otoko_1_i_ni_odosarete_imasu
@@ -7,15 +8,16 @@ gaikotsu_shotenin_honda_san
 goblin_slayer
 golden_kamui_2
 gurazeni_2
-ingress_the_animation
 irozuku_sekai_no_ashita_kara
 jojo_no_kimyou_na_bouken_5
 karakuri_circus
 kaze_ga_tsuyoku_fuiteiru
 kishuku_gakkou_no_juliet
 release_the_spyce
+release_the_spyce_intermission_movie
 seishun_buta_yarou_wa_bunny_girl_no_yume_wo_minai
 ssss_gridman
+ssss_gridman_voice_drama
 tensei_shitara_slime_datta_ken
 toaru_majutsu_no_index_3
 tokyo_ghoul_re_2
